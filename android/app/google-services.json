@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902087507135",
+    "project_id": "facescanauthen",
+    "storage_bucket": "facescanauthen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902087507135:android:0258e045e1c89169009a0a",
+        "android_client_info": {
+          "package_name": "com.example.FaceScan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902087507135-3h3n0nvhff3k59r742mbh2aclpjjnlj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT5o-6CmqrXiBc59SOtzh2Z1VgMks6Ne8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902087507135-3h3n0nvhff3k59r742mbh2aclpjjnlj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
